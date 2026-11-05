@@ -1,0 +1,191 @@
+[
+  {
+    "original_path": "StarterPlayer/StarterPlayerScripts/FeedbackController",
+    "repository_path": "src/active/StarterPlayer/StarterPlayerScripts/FeedbackController.client.luau",
+    "class": "LocalScript",
+    "disabled": false,
+    "lines": 228
+  },
+  {
+    "original_path": "StarterGui/BackpackHUD/Backpacklabel/BackpackDisplay",
+    "repository_path": "src/active/StarterGui/BackpackHUD/Backpacklabel/BackpackDisplay.client.luau",
+    "class": "LocalScript",
+    "disabled": false,
+    "lines": 20
+  },
+  {
+    "original_path": "StarterGui/BackpackHUD/CoinsLabel/CoinsDisplay",
+    "repository_path": "src/active/StarterGui/BackpackHUD/CoinsLabel/CoinsDisplay.client.luau",
+    "class": "LocalScript",
+    "disabled": false,
+    "lines": 18
+  },
+  {
+    "original_path": "StarterGui/UpgradeUI/UpgradeUIController",
+    "repository_path": "src/active/StarterGui/UpgradeUI/UpgradeUIController.client.luau",
+    "class": "LocalScript",
+    "disabled": false,
+    "lines": 154
+  },
+  {
+    "original_path": "StarterGui/ShopUI/ShopClient",
+    "repository_path": "src/active/StarterGui/ShopUI/ShopClient.client.luau",
+    "class": "LocalScript",
+    "disabled": false,
+    "lines": 251
+  },
+  {
+    "original_path": "ServerScriptService/DataService",
+    "repository_path": "src/active/ServerScriptService/DataService.module.luau",
+    "class": "ModuleScript",
+    "disabled": false,
+    "lines": 503
+  },
+  {
+    "original_path": "ServerScriptService/FunnelService",
+    "repository_path": "src/active/ServerScriptService/FunnelService.module.luau",
+    "class": "ModuleScript",
+    "disabled": false,
+    "lines": 219
+  },
+  {
+    "original_path": "ServerScriptService/CrystalService",
+    "repository_path": "src/active/ServerScriptService/CrystalService.module.luau",
+    "class": "ModuleScript",
+    "disabled": false,
+    "lines": 154
+  },
+  {
+    "original_path": "Workspace/BlueCrystal1/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/BlueCrystal1/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 59
+  },
+  {
+    "original_path": "Workspace/SellStation/SellScript",
+    "repository_path": "src/active/Workspace/SellStation/SellScript.server.luau",
+    "class": "Script",
+    "disabled": false,
+    "lines": 100
+  },
+  {
+    "original_path": "Workspace/UpgradeStation/UpgradeScript",
+    "repository_path": "src/active/Workspace/UpgradeStation/UpgradeScript.server.luau",
+    "class": "Script",
+    "disabled": false,
+    "lines": 87
+  },
+  {
+    "original_path": "Workspace/CrystalCaveGate/CaveGateScript",
+    "repository_path": "src/active/Workspace/CrystalCaveGate/CaveGateScript.server.luau",
+    "class": "Script",
+    "disabled": false,
+    "lines": 92
+  },
+  {
+    "original_path": "Workspace/PurpleCrystal1/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/PurpleCrystal1/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 61
+  },
+  {
+    "original_path": "Workspace/CaveRareSpawn1/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/CaveRareSpawn1/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 97
+  },
+  {
+    "original_path": "Workspace/ReturnPortal/ReturnScript",
+    "repository_path": "src/active/Workspace/ReturnPortal/ReturnScript.server.luau",
+    "class": "Script",
+    "disabled": false,
+    "lines": 34
+  },
+  {
+    "original_path": "Workspace/BlueCrystal2/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/BlueCrystal2/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 59
+  },
+  {
+    "original_path": "Workspace/BlueCrystal3/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/BlueCrystal3/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 59
+  },
+  {
+    "original_path": "Workspace/BlueCrystal4/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/BlueCrystal4/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 59
+  },
+  {
+    "original_path": "Workspace/BlueCrystal5/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/BlueCrystal5/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 59
+  },
+  {
+    "original_path": "Workspace/BlueCrystal6/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/BlueCrystal6/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 59
+  },
+  {
+    "original_path": "Workspace/PurpleCrystal2/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/PurpleCrystal2/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 61
+  },
+  {
+    "original_path": "Workspace/PurpleCrystal3/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/PurpleCrystal3/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 61
+  },
+  {
+    "original_path": "Workspace/PurpleCrystal4/CrystalPicku",
+    "repository_path": "src/legacy_disabled/Workspace/PurpleCrystal4/CrystalPicku.server.luau",
+    "class": "Script",
+    "disabled": true,
+    "lines": 61
+  },
+  {
+    "original_path": "ServerScriptService/DataController",
+    "repository_path": "src/active/ServerScriptService/DataController.server.luau",
+    "class": "Script",
+    "disabled": false,
+    "lines": 208
+  },
+  {
+    "original_path": "ServerScriptService/PurchaseService",
+    "repository_path": "src/active/ServerScriptService/PurchaseService.server.luau",
+    "class": "Script",
+    "disabled": false,
+    "lines": 128
+  },
+  {
+    "original_path": "ServerScriptService/AnalyticsController",
+    "repository_path": "src/active/ServerScriptService/AnalyticsController.server.luau",
+    "class": "Script",
+    "disabled": false,
+    "lines": 207
+  },
+  {
+    "original_path": "ServerScriptService/CrystalController",
+    "repository_path": "src/active/ServerScriptService/CrystalController.server.luau",
+    "class": "Script",
+    "disabled": false,
+    "lines": 6
+  }
+]
